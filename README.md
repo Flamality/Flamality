@@ -1,24 +1,55 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-- 🌱 I am passionate about **Game Development**, especially using **Roblox Studio**.
-- 👾 I enjoy working on projects related to **SCP Foundation** and other creative endeavors.
+Hello 👋, my name is **Flamality**, but feel free to call me **Remi**!  
+I'm a **web developer** and **game developer** passionate about crafting intuitive and engaging user experiences.  
+I specialize in building dynamic, responsive websites and applications with a focus on **front-end development** and **UX design**.
+
+### Highlights
+- 🎮 Game Development: Proficient in **Roblox Studio** and **LuaU scripting**.
+- 🌐 Web Development: Experienced with **React**, **HTML**, **CSS**, and **JavaScript**.
+- 💡 Creative Problem Solving: Adept at designing user-friendly and visually appealing interfaces.
 
 ## Skills
-- **Game Development**: Proficient in Roblox Studio and Lua scripting.
-- **Programming**: Basic knowledge of various programming languages and tools.
-- **Web Development**: I can design websites, including this one -> [https://adrionic.xyz](https://adrionic.xyz)
+### Languages
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- JSX (React / React Native)
+- LuaU (Roblox Studio)
 
-## Goals
-- 🎯 Aspiring to become a professional **Game Developer**.
+### Backend
+- Node.js
+- Firebase
+- Appwrite
 
-## Contact Me
-- **Discord**: @Flamality | 995390725388771438
-- **Email**: [urflamality@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvnrFvvXCchvBxvbjLdwNjJrqgxMCBgZsQDJJbdDpZfvksmnSKhSCcMCnVCvBpSQRlcrWg)
-- **Roblox**: UrFlamality
+### Tools
+- Git
+- VS Code
+- Command Line
 
-*Feel free to explore my repositories and projects. I'm always open to collaboration and new ideas!*
+### UI/UX Design
+- Figma
+
+### Project Management
+- Trello
+
+## Personal Information
+- **Pronouns**: Any
+- **Sexuality**: Pansexual 🏳️‍🌈
+- **Timezone**: EST (UTC−05:00)  
+
+## Links
+- [GitHub](https://github.com/Flamality)
+- [YouTube](https://youtube.com/@UrFlamality)
+- [Discord](https://discord.gg/wqNtVJ6rXh)
+- [TikTok](https://tiktok.com/@flamality)
+- [Guilded](https://guilded.gg/u/flamality)
+- [Email](mailto:urflamality@gmail.com)
+
+You can find all this information any more on my portfolio right [here](https://flamality.xyz)
 
 ---
 
-“Success is not final, failure is not fatal: It is the courage to continue that counts.” – Winston Churchill
+*"Success is not final, failure is not fatal: It is the courage to continue that counts."* – Winston Churchill
