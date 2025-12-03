@@ -3,7 +3,7 @@
 ## About Me
 
 Hello 👋, my name is **Flamality**, but feel free to call me **Remi**!  
-I'm a **web developer** and **game developer** passionate about crafting intuitive and engaging user experiences.  
+I'm a **web developer** who loves crafting intuitive and engaging user experiences.  
 I specialize in building dynamic, responsive websites and applications with a focus on **front-end development** and **UX design**.
 
 ### Highlights
